@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\bin\Debug\AdvC.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\bin\Debug\AdvC.exe
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\bin\Debug\AdvC.pdb
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.exe
+c:\users\dell\documents\visual studio 2015\Projects\AdvC\AdvC\obj\Debug\AdvC.pdb
+C:\Users\DELL\Desktop\AdvC\AdvC\bin\Debug\AdvC.exe.config
+C:\Users\DELL\Desktop\AdvC\AdvC\obj\Debug\AdvC.exe
+C:\Users\DELL\Desktop\AdvC\AdvC\obj\Debug\AdvC.pdb
